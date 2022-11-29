@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+body {
+    background: #627d7b;
+}
+
+.row {
+    background: #a1a0a0;
+}
+
+.text {
+    text-align: center;
+    padding-top: 40px;
+    color:#467b7a ;
+}
+
+.block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.btn {
+    margin-left: 140px;
+}
+
+.line {
+    text-decoration: line-through;
+}
+
+.circle {
+    padding: 5px 10px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(0, 0, 0, 0.34);
+}
+
+.list-group {
+    padding-top: 20px;
+
+}
